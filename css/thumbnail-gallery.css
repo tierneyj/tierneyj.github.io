@@ -9,6 +9,11 @@ body {
   background: #6EF4FA !important
 }
 
+.navbar-default {
+    background-color: #F7270A;
+    border-color: #F7270A;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
